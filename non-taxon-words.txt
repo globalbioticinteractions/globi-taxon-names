@@ -23,6 +23,7 @@ bones
 bottom
 bubble
 Carnivorous
+cf
 chicks
 cirri
 Class
@@ -64,6 +65,7 @@ freshwater
 FRGAMENT
 from
 gelatinous
+genus
 half
 hard
 herbaceous
@@ -101,6 +103,7 @@ mm
 moults
 muscles
 nauplii
+nr
 nymphs
 of
 offal
@@ -164,6 +167,7 @@ tiny
 tissue
 tissues
 to
+toxicity
 tract
 type
 undentified
