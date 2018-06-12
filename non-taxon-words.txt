@@ -238,6 +238,7 @@ var
 various
 veligers
 vertebrae
+wading
 water
 weight
 whole
