@@ -232,9 +232,14 @@ unpspecified
 unreadable
 unreared
 unspec
+unspecfied
+unspecied
+unspeciifed
+unspecifcied
 unspecifed
 unspecific
 unspecified
+unspecifies
 unspeicified
 uunspecified
 variety
