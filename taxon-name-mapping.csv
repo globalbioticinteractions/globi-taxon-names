@@ -240,6 +240,7 @@ Aquipecten irradians,Argopecten irradians,,provided by Brian Hayden et al. 2018-
 arabellids,Drilonereis,common name,provided by Brian Hayden
 Aracanidae,Tetraodontiformes,,provided by Brian Hayden et al. 2018-06-08
 Arachnidae,Aracanidae,typo,provided by Brian Hayden
+Arborescent,Plantae,common name,provided by Jorrit Poelen 2018-06-28
 Arcacalanus sp.,Arctocalanus,typo,provided by Brian Hayden
 Archaeopsis spinulosus,Archaeopsis,,provided by Brian Hayden et al. 2018-06-08
 Archicauliodes diversus,Archichauliodes diversus,,provided by Brian Hayden et al. 2018-06-08
@@ -660,6 +661,7 @@ Cerbagrion,Ceriagrion,,provided by Brian Hayden et al. 2018-06-08
 Cerithidae spp.,Cerithidea,typo,provided by Brian Hayden
 Cerithiidae,Neotaenioglossa,,provided by Brian Hayden et al. 2018-06-08
 cestodes,Cestoda,,provided by Brian Hayden et al. 2018-06-08
+Cetacean,Cetacea,common name,provided by Brian Hayden
 Cetacean blubber,Cetacea,common name,provided by Brian Hayden
 Cetengraulis mysticeus,Cetengraulis mysticetus,,provided by Brian Hayden et al. 2018-06-08
 Chaetoceraceae,Chaetoceros,,provided by Brian Hayden et al. 2018-06-08
@@ -2429,6 +2431,7 @@ Myrtaceae fruit,angiosperms,,provided by Brian Hayden et al. 2018-06-08
 Mysidacea-unidentified,Mysidae,,provided by Brian Hayden et al. 2018-06-08
 Mysidae-Gaslrosaccus,Mysidae,,provided by Brian Hayden et al. 2018-06-08
 Mysidae-Mysidium,Mysidae,,provided by Brian Hayden et al. 2018-06-08
+Mysideacea,Mysidae,,provided by Jorrit Poelen 2018-06-28
 Mysidiacea,Mysidae,,provided by Brian Hayden et al. 2018-06-08
 Mysidiopsis bigelowi,Americamysis,,provided by Brian Hayden et al. 2018-06-08
 mysid,Mysidae,,provided by Brian Hayden et al. 2018-06-08
@@ -3711,6 +3714,7 @@ tailor ants,Oecophylla,,provided by Brian Hayden et al. 2018-06-08
 talitroids,talitroides,,provided by Brian Hayden et al. 2018-06-08
 Tanaeidacea,Tanaidacea,,provided by Brian Hayden et al. 2018-06-08
 Tanaidea,Tanaidacea,,provided by Brian Hayden et al. 2018-06-08
+Tanaidaceae,Tanaidacea,,provided by Jorrit Poelen 2018-06-28
 Tanaid isopods,Tanaidacea,,provided by Brian Hayden et al. 2018-06-08
 tanaid,Tanaidacea,,provided by Brian Hayden et al. 2018-06-08
 Tanganycia rufofilosa,Tanganyicia rufofilosa,,provided by Brian Hayden et al. 2018-06-08
@@ -3988,7 +3992,7 @@ Weddel seals,Leptonychotes weddellii,,provided by Brian Hayden et al. 2018-06-08
 weed-dwelling crustaceans,Crustacea,,provided by Brian Hayden et al. 2018-06-08
 weeds,Plantae,,provided by Brian Hayden et al. 2018-06-08
 Wenchman,Pristipomoides aquilonaris,,
-whales dolphins,cetaceans,,provided by Brian Hayden et al. 2018-06-08
+whales dolphins,Cetacea,,provided by Brian Hayden et al. 2018-06-08
 wheat,Triticum,,provided by Brian Hayden et al. 2018-06-08
 White paper card board,inorganic,,provided by Brian Hayden et al. 2018-06-08
 white plastic,plastic,https://github.com/EnvironmentOntology/envo/blob/master/envo.obo,provided by Jorrit Poelen
