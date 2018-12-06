@@ -1,7 +1,7 @@
 # globi-taxon-names
 list of manual taxonomic name mappings and taxonomic stop words 
 
- * [non-taxon-names.txt](./non-taxon-names.txt) is a list of non taxon words (aka taxon stop words) that are found in taxonomic name descriptions. They may contains words associated with lifestages (e.g., larva) or habitat (e.g., benthic). 
+ * [non-taxon-words.txt](./non-taxon-words.txt) is a list of non taxon words (aka taxon stop words) that are found in taxonomic name descriptions. They may contain words associated with lifestages (e.g., larva) or habitat (e.g., benthic). 
 
  * [taxon-name-mapping.csv](./taxon-name-mapping.csv) is a best effort list to map funky names to their likely taxonomic or functional counter part. 
 
