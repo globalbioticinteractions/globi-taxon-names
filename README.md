@@ -1,4 +1,7 @@
 # globi-taxon-names
+
+[![DOI](https://zenodo.org/badge/136953329.svg)](https://zenodo.org/badge/latestdoi/136953329)
+
 list of manual taxonomic name mappings and taxonomic stop words 
 
  * [non-taxon-words.txt](./non-taxon-words.txt) is a list of non taxon words (aka taxon stop words) that are found in taxonomic name descriptions. They may contain words associated with lifestages (e.g., larva) or habitat (e.g., benthic). 
