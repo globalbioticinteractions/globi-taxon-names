@@ -51,7 +51,7 @@ Agaricus campestris var. equestris,Agaricus campestris var. equestris,BIO_INFO,F
 Agaricus urinascens var. excellens,Agaricus urinascens var. excellens,BIO_INFO,Found at:  http://www.mycobank.org/Biolomics.aspx?Table=Mycobank&MycoBankNr_=466165
 Agaricus urinascens var. urinascens,Agaricus urinascens var. urinascens,BIO_INFO,Found at:  http://eol.org/pages/6719165/hierarchy_entries/52788441/overview
 Agris lar lar,Unidentified,,provided by Brian Hayden et al. 2018-06-08
-Airus felis,Ariopsis felis,"James Simons personal communication April 2013","http://www.sms.si.edu/IRLSpec/Ariops_felis.htm retrieved April 7 2013"
+Airus felis,Ariopsis felis,James Simons personal communication April 2013,http://www.sms.si.edu/IRLSpec/Ariops_felis.htm retrieved April 7 2013
 Aka brevitubulatum,Siphonodictyon brevitubulatum,WoRMS; js,Aka brevitubulata
 Alacaridae,Aracanidae,typo,provided by Brian Hayden
 Albabesmyia,Ablabesmyia,,mapping provided by Brian Hayden
@@ -257,7 +257,7 @@ Aricidea succinea,Aricidea suecica,Simons 1997,Found at:  http://www.marinespeci
 Aricudae,Aricidea,,provided by Brian Hayden et al. 2018-06-08
 Arididea sp.,Acrididea,typo,provided by Brian Hayden
 Ari felis,Ariopsis felis,,
-Arius felis,Ariopsis felis,"James Simons personal communication April 2013","http://www.sms.si.edu/IRLSpec/Ariops_felis.htm retrieved April 7 2013"
+Arius felis,Ariopsis felis,James Simons personal communication April 2013,http://www.sms.si.edu/IRLSpec/Ariops_felis.htm retrieved April 7 2013
 Armanida agilis,Armandia agilis,Rogers 1977,
 Armillaria mellea s.l.,Armillaria mellea s.l.,BIO_INFO,Found at:  http://www.searchnbn.net/speciesInfo/taxonomy.jsp?searchTerm=Armillaria%20mellea%20s.l.&spKey=NHMSYS0001474862
 arminid nudibranchs,Arminid nudibranch,common name,provided by Brian Hayden
@@ -2714,6 +2714,7 @@ Other Thrips,Thysanoptera,Akin et al 2006,Found at:  http://eol.org/pages/1095/n
 Otolith,Actinopterygii,Wrast 2008,
 otoliths,Osteichthyes,,provided by Brian Hayden et al. 2018-06-08
 Owenidae,Oweniidae,,provided by Brian Hayden et al. 2018-06-08
+OX,Bovinae,,https://en.wikipedia.org/wiki/Bovinae via https://en.wikipedia.org/wiki/Ox
 Oxycephalus porcelus,Oxycephalus porcellus,,provided by Brian Hayden et al. 2018-06-08
 Oxyrhyncan crabs,Decapoda,,provided by Brian Hayden et al. 2018-06-08
 Oxyrhyncha,Crustacea,,mapping provided by Brian Hayden
