@@ -187,6 +187,7 @@ some
 sp
 species
 spp
+sps
 sspb
 stage
 stated
