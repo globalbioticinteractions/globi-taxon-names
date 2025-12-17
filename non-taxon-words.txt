@@ -265,6 +265,7 @@ unspeciifed
 unspeicified
 uunspecified
 var
+varga
 variety
 various
 veligers
