@@ -98,6 +98,7 @@ hard
 herbaceous
 herbivorous
 higher
+host
 husk
 husks
 i
