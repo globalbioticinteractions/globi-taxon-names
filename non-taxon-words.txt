@@ -36,6 +36,7 @@ Class
 colonial
 columns
 combined
+community
 considered
 contents
 cysts
@@ -109,7 +110,9 @@ immature
 in
 incl
 including
+indigenous
 individuals
+intraradices
 items
 juvenile
 juveniles
